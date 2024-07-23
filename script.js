@@ -1,15 +1,4 @@
-// function button1(){
-   
-//     var txt=document.getElementById("text").value;
-    
-//     if(txt==""){
-//         alert("Please enter a value");
-//     }
-//     else if(txt=="good" || tex){
-//         document.getElementById("h2").innerHTML="Good Vibe";
-//     }
-   
-// }
+
 function decline(){
     alert("Question Declined");
 }
