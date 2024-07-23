@@ -1,0 +1,40 @@
+.section{
+    text-align: center;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 10px;
+    /* border: 1px solid #ccc; */
+    border-radius: 5px;
+    /* background-color: #d27817; */
+    /* box-shadow: 0 0 10px rgba(0,0,0,0.1); */
+    transition: box-shadow 0.3s ease;
+   margin-top: 50px;
+
+}
+fieldset{
+   background-color: rgb(232, 187, 187);
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(179, 235, 36, 0.1);
+}
+img{
+    background-color: #f7f30a;
+    border-radius: 50px;
+}
+.img1{
+    width: 50px;
+    height: 60px;
+}
+#text{
+    background-color: orange;
+    padding: 5px;
+}
+.btn{
+    background-color: yellow;
+    padding: 5px;
+}
+h3{
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+
+}
